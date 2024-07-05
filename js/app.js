@@ -21,7 +21,7 @@ copyBtn.addEventListener('click', (e) => {
 
 const generateBtn = document.createElement('button');
 generateBtn.classList.add('password-button');
-generateBtn.innerText = 'generate';
+generateBtn.innerText = 'Generate';
 generateBtn.addEventListener('click', (e) => {
  let password = generatePassword(12);
  passwordEl.value = password;
