@@ -49,3 +49,4 @@ mainEl.appendChild(passwordEl);
 mainEl.appendChild(copyBtn);
 mainEl.appendChild(generateBtn);
 
+
